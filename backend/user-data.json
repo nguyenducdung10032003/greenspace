@@ -1,0 +1,72 @@
+{
+  "1758852514197": {
+    "plantCombos": [],
+    "diaryEntries": [],
+    "notifications": [],
+    "blogPosts": [],
+    "settings": {
+      "notifications": {
+        "email": true,
+        "push": true,
+        "careReminders": true
+      },
+      "privacy": {
+        "profileVisibility": "public"
+      },
+      "preferences": {
+        "theme": "dark",
+        "language": "en"
+      }
+    },
+    "user": {
+      "id": 1758852514197,
+      "name": "Đức Dũng",
+      "email": "ndd1032003@gmail.com",
+      "phone": "0386312639",
+      "location": "Hà Nội",
+      "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+      "joinDate": "2025-09-26",
+      "level": "Người mới bắt đầu",
+      "points": 0
+    }
+  },
+  "1759057148786": {
+    "user": {
+      "id": 1759057148786,
+      "name": "Nguyễn Đức Dũng",
+      "email": "ndd@123.com",
+      "password": "Dung123",
+      "phone": "abcdefgh",
+      "location": "Hà Nội",
+      "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+      "joinDate": "2025-09-28",
+      "level": "Người mới bắt đầu",
+      "points": 0
+    },
+    "plantCombos": [],
+    "diaryEntries": [],
+    "notifications": [],
+    "blogPosts": [],
+    "settings": {
+      "notifications": {
+        "email": true,
+        "push": true,
+        "careReminders": true,
+        "communityUpdates": false,
+        "weeklyReport": true
+      },
+      "privacy": {
+        "profileVisibility": "public",
+        "gardenVisibility": "friends",
+        "activityVisibility": "public"
+      },
+      "preferences": {
+        "theme": "light",
+        "language": "vi",
+        "timezone": "Asia/Ho_Chi_Minh"
+      }
+    }
+  }
+}

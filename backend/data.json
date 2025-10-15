@@ -1,0 +1,558 @@
+{
+  "users": [
+    {
+      "id": 1758852514197,
+      "name": "Đức Dũng",
+      "email": "ndd1032003@gmail.com",
+      "password": "Dung123@",
+      "phone": "0386312639",
+      "location": "Hà Nội",
+      "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+      "joinDate": "2025-09-26",
+      "level": "Người mới bắt đầu",
+      "points": 0
+    },
+    {
+      "id": 1759057148786,
+      "name": "Nguyễn Đức Dũng",
+      "email": "ndd@123.com",
+      "password": "Dung123",
+      "phone": "abcdefgh",
+      "location": "Hà Nội",
+      "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+      "joinDate": "2025-09-28",
+      "level": "Người mới bắt đầu",
+      "points": 0
+    }
+  ],
+  "plantCombos": [
+    {
+      "id": 4,
+      "userId": 1759057148786,
+      "name": "Xin chào",
+      "comboType": "Mini Garden",
+      "category": "Combo trang trí",
+      "image": "/images/default-combo.jpg",
+      "location": "Ban công",
+      "notes": "",
+      "plants": [
+        "Sen đá đuôi công",
+        "Sansevieria Trifasciata"
+      ],
+      "decorations": [
+        "Đèn LED mini"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1759057188720,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-01",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "lastDone": "2025-09-28"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB004",
+      "dateAdded": "2025-09-28",
+      "lastCared": "2025-09-28",
+      "nextCare": "2025-10-01"
+    },
+    {
+      "id": 5,
+      "userId": 1758852514197,
+      "name": "Combo Bảo Vệ & Bình An_Cây Lưỡi Hổ",
+      "comboType": "Combo Bảo Vệ & Bình An",
+      "category": "Combo trang trí",
+      "image": "src/image/luoi_ho.jpg",
+      "location": "Phòng ngủ",
+      "notes": "",
+      "plants": [
+        "Lưỡi hổ mini"
+      ],
+      "decorations": [
+        "Tượng Thần Tài",
+        "Chậu gốm",
+        "Sỏi trang trí"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760072718104,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "lastDone": "2025-10-10"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB005",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    },
+    {
+      "id": 6,
+      "userId": 1758852514197,
+      "name": "Combo Bình Yên & Gắn Kết Gia Đình_Cây Ngũ Gia Bì",
+      "comboType": "Combo Bình Yên & Gắn Kết Gia Đình",
+      "category": "Phong thủy",
+      "image": "src/image/ngu_gia_bi.jpg",
+      "location": "Phòng ngủ",
+      "notes": "",
+      "plants": [
+        "Cây ngũ gia bì"
+      ],
+      "decorations": [
+        "Tượng vịt cute",
+        "Chậu gốm",
+        "Sỏi trang trí"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760072795984,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "lastDone": "2025-10-10"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB006",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    },
+    {
+      "id": 7,
+      "userId": 1758852514197,
+      "name": "Combo Đặc Biệt 20_10_Cây Dollar",
+      "comboType": "Combo Đặc Biệt 20/10",
+      "category": "Combo trang trí",
+      "image": "src/image/dollar.jpg",
+      "location": "Bàn làm việc",
+      "notes": "",
+      "plants": [
+        "Cây dollar"
+      ],
+      "decorations": [
+        "Tượng vịt cute",
+        "Chậu gốm",
+        "Sỏi trang trí"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760072855815,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "lastDone": "2025-10-10"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB007",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    },
+    {
+      "id": 8,
+      "userId": 1758852514197,
+      "name": "Combo Ổn định và Thành Công_Cây Kim Ngân",
+      "comboType": "Combo Ổn Định và Thành Công",
+      "category": "Phong thủy",
+      "image": "src/image/kim_ngan.jpg",
+      "location": "Ban công",
+      "notes": "",
+      "plants": [
+        "Cây kim ngân"
+      ],
+      "decorations": [
+        "Tượng vịt cute",
+        "Chậu gốm",
+        "Sỏi trang trí"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760072925407,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": false,
+          "notes": "Tưới nước cho combo"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB008",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    },
+    {
+      "id": 9,
+      "userId": 1758852514197,
+      "name": "Combo Thu Hút Tài Lộc_Cây Kim Tiền",
+      "comboType": "Combo Thu Hút Tài Lộc",
+      "category": "Phong thủy",
+      "image": "src/image/kim_tien.jpg",
+      "location": "Phòng khách",
+      "notes": "",
+      "plants": [
+        "Cây kim tiền"
+      ],
+      "decorations": [
+        "Tượng mèo thần tài",
+        "Chậu gốm",
+        "Sỏi trang trí"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760072988304,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": false,
+          "notes": "Tưới nước cho combo"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB009",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    },
+    {
+      "id": 10,
+      "userId": 1758852514197,
+      "name": "Combo Tình Yêu & Gắn Kết_Cây Sống Đời",
+      "comboType": "Combo Tình Yêu & Gắn Kết",
+      "category": "Combo trang trí",
+      "image": "src/image/song_doi.jpeg",
+      "location": "Bàn làm việc",
+      "notes": "",
+      "plants": [
+        "Cây sống đời"
+      ],
+      "decorations": [
+        "Sỏi trang trí",
+        "Chậu gốm",
+        "Figurines đôi tình nhân"
+      ],
+      "careLevel": "Dễ",
+      "health": 85,
+      "careSchedule": [
+        {
+          "id": 1760073048191,
+          "type": "watering",
+          "name": "Tưới nước",
+          "frequency": "3 ngày/lần",
+          "nextDue": "2025-10-13",
+          "completed": false,
+          "notes": "Tưới nước cho combo"
+        }
+      ],
+      "careGuide": [],
+      "qrCode": "CMB010",
+      "dateAdded": "2025-10-10",
+      "lastCared": "2025-10-10",
+      "nextCare": "2025-10-13"
+    }
+  ],
+  "diaryEntries": [
+    {
+      "id": 1,
+      "userId": 1758852514197,
+      "date": "2025-09-27",
+      "plantName": "Nguyen Duc Dung",
+      "plantId": 1,
+      "activities": [
+        {
+          "id": 1758999958961,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "02:05",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-09-27T19:05:58.972Z"
+    },
+    {
+      "id": 2,
+      "userId": 1758852514197,
+      "date": "2025-09-28",
+      "plantName": "Nguyen Duc Dung",
+      "plantId": 1,
+      "activities": [
+        {
+          "id": 1759053943520,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "17:05",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-09-28T10:05:43.530Z"
+    },
+    {
+      "id": 3,
+      "userId": 1758852514197,
+      "date": "2025-09-28",
+      "plantName": "Nguyen Duc Dung",
+      "plantId": 2,
+      "activities": [
+        {
+          "id": 1759055010645,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "17:23",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-09-28T10:23:30.657Z"
+    },
+    {
+      "id": 4,
+      "userId": 1759057148786,
+      "date": "2025-09-28",
+      "plantName": "Xin chào",
+      "plantId": 4,
+      "activities": [
+        {
+          "id": 1759057266691,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "18:01",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-09-28T11:01:06.704Z"
+    },
+    {
+      "id": 5,
+      "userId": 1758852514197,
+      "date": "2025-10-10",
+      "plantName": "Combo Bảo Vệ & Bình An_Cây Lưỡi Hổ",
+      "plantId": 5,
+      "activities": [
+        {
+          "id": 1760073083130,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "12:11",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-10-10T05:11:23.145Z"
+    },
+    {
+      "id": 6,
+      "userId": 1758852514197,
+      "date": "2025-10-10",
+      "plantName": "Combo Bình Yên & Gắn Kết Gia Đình_Cây Ngũ Gia Bì",
+      "plantId": 6,
+      "activities": [
+        {
+          "id": 1760073086970,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "12:11",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-10-10T05:11:26.983Z"
+    },
+    {
+      "id": 7,
+      "userId": 1758852514197,
+      "date": "2025-10-10",
+      "plantName": "Combo Đặc Biệt 20_10_Cây Dollar",
+      "plantId": 7,
+      "activities": [
+        {
+          "id": 1760073089754,
+          "type": "watering",
+          "name": "Tưới nước",
+          "time": "12:11",
+          "completed": true,
+          "notes": "Tưới nước cho combo",
+          "icon": "Droplets",
+          "amount": "200ml"
+        }
+      ],
+      "notes": "Tự động ghi nhận từ lịch chăm sóc: Tưới nước",
+      "mood": "good",
+      "createdAt": "2025-10-10T05:11:29.765Z"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "author": {
+        "id": 2,
+        "name": "Minh Thư",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=100&q=80",
+        "level": "Chuyên gia",
+        "verified": true
+      },
+      "title": "Bí quyết chăm sóc Monstera trong mùa đông",
+      "content": "Monstera của mình sau 6 tháng chăm sóc...",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "likes": 160,
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "id": 3,
+            "name": "Hoàng Anh",
+            "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80"
+          },
+          "content": "Cảm ơn bạn! Mình cũng đang gặp vấn đề...",
+          "timestamp": "2024-01-15T11:30:00Z",
+          "likes": 12,
+          "replies": []
+        }
+      ],
+      "shares": 23,
+      "bookmarks": 49,
+      "isPersonal": false,
+      "tags": [
+        "Monstera",
+        "Chăm sóc mùa đông",
+        "Kinh nghiệm"
+      ],
+      "category": "Hướng dẫn"
+    },
+    {
+      "id": 2,
+      "author": {
+        "id": 1758852514197,
+        "name": "Đức Dũng 123",
+        "email": "ndd103200344@gmail.com",
+        "password": "Dung123@",
+        "phone": "0386312639444",
+        "location": "Hà Nội 324",
+        "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+        "joinDate": "2025-09-26",
+        "level": "Người mới bắt đầu",
+        "points": 0
+      },
+      "title": "hello ",
+      "content": "Tôi cần 1 số cách trồng cây\n",
+      "isPersonal": false,
+      "category": "Chia sẻ",
+      "timestamp": "Vừa xong",
+      "likes": 0,
+      "comments": [],
+      "shares": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": 3,
+      "author": {
+        "id": 1758852514197,
+        "name": "Đức Dũng",
+        "email": "ndd1032003@gmail.com",
+        "password": "Dung123@",
+        "phone": "0386312639",
+        "location": "Hà Nội",
+        "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+        "joinDate": "2025-09-26",
+        "level": "Người mới bắt đầu",
+        "points": 0
+      },
+      "title": "rrtjj",
+      "content": "ju5u65",
+      "isPersonal": false,
+      "category": "Chia sẻ",
+      "timestamp": "Vừa xong",
+      "likes": 0,
+      "comments": [],
+      "shares": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": 4,
+      "author": {
+        "id": 1759057148786,
+        "name": "Nguyễn Đức Dũng",
+        "email": "ndd@123.com",
+        "password": "Dung123",
+        "phone": "abcdefgh",
+        "location": "Hà Nội",
+        "bio": "Người yêu thiên nhiên và đam mê chăm sóc cây cảnh.",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&q=80",
+        "joinDate": "2025-09-28",
+        "level": "Người mới bắt đầu",
+        "points": 0
+      },
+      "title": "Xin chào",
+      "content": "Hello em",
+      "isPersonal": true,
+      "category": "Hướng dẫn",
+      "timestamp": "Vừa xong",
+      "likes": 0,
+      "comments": [],
+      "shares": 0,
+      "bookmarks": 0
+    }
+  ]
+}
